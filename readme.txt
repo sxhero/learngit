@@ -1,3 +1,3 @@
 Git is Verstion Control System
-Git is Free
+Git is Free software
 
